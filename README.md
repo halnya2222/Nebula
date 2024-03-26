@@ -6,4 +6,4 @@ Fast Package Manager for Python
 
 ## Supported Package Installers
 - Nebula (with [pypa/installer](https://github.com/pypa/installer))
-- [uv](https://github.com/astral-sh/uv)
+- [uv](https://github.com/astral-sh/uv) (WIP)
